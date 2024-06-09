@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rishis/QuizForm/QuizForm/QuizForm.vbproj": {}
+  },
+  "projects": {
+    "/Users/rishis/QuizForm/QuizForm/QuizForm.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rishis/QuizForm/QuizForm/QuizForm.vbproj",
+        "projectName": "QuizForm",
+        "projectPath": "/Users/rishis/QuizForm/QuizForm/QuizForm.vbproj",
+        "packagesPath": "/Users/rishis/.nuget/packages/",
+        "outputPath": "/Users/rishis/QuizForm/QuizForm/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rishis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

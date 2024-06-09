@@ -1,0 +1,5 @@
+/Users/rishis/QuizForm/obj/Debug/net8.0/QuizForm.vbproj.AssemblyReference.cache
+/Users/rishis/QuizForm/obj/Debug/net8.0/QuizForm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishis/QuizForm/obj/Debug/net8.0/QuizForm.AssemblyInfoInputs.cache
+/Users/rishis/QuizForm/obj/Debug/net8.0/QuizForm.AssemblyInfo.vb
+/Users/rishis/QuizForm/obj/Debug/net8.0/QuizForm.vbproj.CoreCompileInputs.cache

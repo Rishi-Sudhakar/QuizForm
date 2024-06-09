@@ -1,0 +1,4 @@
+/Users/rishis/QuizForm/QuizForm/obj/Release/net48/QuizForm.vbproj.AssemblyReference.cache
+/Users/rishis/QuizForm/QuizForm/obj/Release/net48/QuizForm.AssemblyInfoInputs.cache
+/Users/rishis/QuizForm/QuizForm/obj/Release/net48/QuizForm.AssemblyInfo.vb
+/Users/rishis/QuizForm/QuizForm/obj/Release/net48/QuizForm.vbproj.CoreCompileInputs.cache
