@@ -25,7 +25,7 @@ To run this application, you need to have .NET SDK installed on your system.
    dotnet run --project QuizForm
    ```
 
-I used mono with MacOS, So pull requests on bugs are highly appreciated.
+I used mono with MacOS, So pull requests on bugs are highly appreciated. (Please do provide any bugs/feedback in the pull request, I did not try this out in windows)
 
 ## Usage
 
